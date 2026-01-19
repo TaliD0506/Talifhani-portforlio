@@ -10,7 +10,7 @@ Fully responsive design that works on all devices
 Contact form that actually sends emails
 Clean, maintainable code structure
 
-Tech Stack
+>Tech Stack
 Frontend:
 -HTML5 (semantic markup)
 -CSS (Grid, Flexbox, CSS Variables, Keyframe Animations)
@@ -23,7 +23,7 @@ External Resources:
 -Font Awesome 6.4.0 (icons)
 -Google Fonts (Inter & JetBrains Mono)
 
- Key Features I Implemented
+>Key Features I Implemented
 Interactions
 -Smooth Scroll Navigation: One-page navigation with active state highlighting
 -Hover Effects: Interactive cards and buttons with smooth transitions
@@ -68,7 +68,7 @@ Install XAMPP/WAMP or any PHP server
 Place files in your server directory (htdocs for XAMPP)
 Update email address in send-email.php (line 5)
 
-Access via http://localhost/home.html/
+Access via http:file://C:/xampp/htdocs/home.html
 
 Design Decisions I Made
  -Color Scheme
