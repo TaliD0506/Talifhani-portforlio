@@ -29,6 +29,6 @@ http://localhost/phpmyadmin
 Click New
 Export the (ozyderen_ozyde.sql)
 
-7. Load Login Page
+3. Load Login Page
 Open on your browser:
 http://localhost/ozyde/index.html
